@@ -29,7 +29,7 @@ Bruteforce attack for Facebook Account
 * Make location based login(+browser based).
 
 ## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
+https://www.facebook.com/wizard.war.net
 
 ~~~
 Happy Hacking Day ! (Please do not spam it, It's Just For Knowledge ...).
